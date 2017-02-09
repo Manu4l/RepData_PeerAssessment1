@@ -2,8 +2,7 @@
 title: "Assignment 1"
 author: "Manuel"
 date: "8 Februar 2017"
-output: html_document
-fig_caption: true
+output: md_document
 ---
 
 ============
